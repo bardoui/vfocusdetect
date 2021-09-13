@@ -1,6 +1,6 @@
 {
     "name": "@bardoui/vfocusdetect",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": false,
     "description": "Vue 3 component for detect if any element inside container got focus",
     "license": "ISC",
